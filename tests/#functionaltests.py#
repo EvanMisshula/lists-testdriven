@@ -2,7 +2,7 @@ from selenium import webdriver
 import unittest
 
 #x = webdriver.Firefox()
-#x.get('localhost:8000')
+#x.get('http://www.digitalscholar.net')
 
 class NewVisitorTest(unittest.TestCase):
     def setUp(self):
